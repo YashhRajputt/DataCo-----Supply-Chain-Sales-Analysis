@@ -95,6 +95,7 @@ The cleaned and analyzed data was used to develop an interactive Power BI report
 
 ### 1. Synopsis
 Provides an overall view of business performance including Sales, Orders, Profit, YoY performance, customer segments and product categories.
+![SYNOPSIS-Analysis I.png](IMAGES/SYNOPSIS-Analysis%20I.png)
 
 ### 2. Analysis
 Provides deeper analysis of sales, profit, orders, product categories and the relationship between discounts and profitability.
@@ -102,12 +103,15 @@ Provides deeper analysis of sales, profit, orders, product categories and the re
 
 ### 3. Continent Analysis
 Analyzes business performance across different geographical regions and allows users to compare regional sales and profitability.
+![CONTINENT ANALYSIS.png](IMAGES/CONTINENT%20ANALYSIS.png)
 
 ### 4. Orders
 Provides detailed transaction-level information for deeper exploration of individual orders.
+![ORDERS.png](IMAGES/ORDERS.png)
 
 ### 5. Drill-Through Details
 Allows users to drill into a selected product category and analyze its sales, profit, profit margin, delivery status, discount behavior and individual orders.
+![DRILL_THROUGH.png](IMAGES/DRILL_THROUGH.png)
 
 ---
 
