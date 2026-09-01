@@ -95,10 +95,10 @@ The cleaned and analyzed data was used to develop an interactive Power BI report
 
 ### 1. Synopsis
 Provides an overall view of business performance including Sales, Orders, Profit, YoY performance, customer segments and product categories.
-![Analysis I](https://github.com/YashhRajputt/DataCo-----Supply-Chain-SalesAnalysis/blob/f5e7f8aa2ea6622f18183f8f2e0e0a0716e7700a/IMAGES/CONTINENT%20ANALYSIS.png).
 
 ### 2. Analysis
 Provides deeper analysis of sales, profit, orders, product categories and the relationship between discounts and profitability.
+![Analysis II](IMAGES/SYNOPSIS-Analysis II.png)
 
 ### 3. Continent Analysis
 Analyzes business performance across different geographical regions and allows users to compare regional sales and profitability.
