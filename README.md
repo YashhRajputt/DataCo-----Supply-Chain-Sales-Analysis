@@ -98,7 +98,7 @@ Provides an overall view of business performance including Sales, Orders, Profit
 
 ### 2. Analysis
 Provides deeper analysis of sales, profit, orders, product categories and the relationship between discounts and profitability.
-![Analysis II](IMAGES/SYNOPSIS-Analysis II.png)
+![Analysis II](IMAGES/SYNOPSIS-Analysis%20II.png)
 
 ### 3. Continent Analysis
 Analyzes business performance across different geographical regions and allows users to compare regional sales and profitability.
