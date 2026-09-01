@@ -142,6 +142,16 @@ Allows users to drill into a selected product category and analyze its sales, pr
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project was obtained from Kaggle.
+
+🔗 **Source:** [DataCo Smart Supply Chain Dataset]([PASTE_KAGGLE_LINK_HERE](https://www.kaggle.com/datasets/shivkp/customer-behaviour))
+
+The original dataset is approximately 94 MB and is not included in this repository due to its large file size.
+
+---
+
 ## 📁 Repository Structure
 
 ```text
